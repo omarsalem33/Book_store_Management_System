@@ -1,0 +1,14 @@
+D:\.Net Learninig\Book_store_Management_System\obj\Debug\net8.0\Book_store_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Learninig\Book_store_Management_System\obj\Debug\net8.0\Book_store_Management_System.AssemblyInfoInputs.cache
+D:\.Net Learninig\Book_store_Management_System\obj\Debug\net8.0\Book_store_Management_System.AssemblyInfo.cs
+D:\.Net Learninig\Book_store_Management_System\obj\Debug\net8.0\Book_store_Management_System.csproj.CoreCompileInputs.cache
+D:\.Net Learninig\Book_store_Management_System\bin\Debug\net8.0\Book_store_Management_System.exe
+D:\.Net Learninig\Book_store_Management_System\bin\Debug\net8.0\Book_store_Management_System.deps.json
+D:\.Net Learninig\Book_store_Management_System\bin\Debug\net8.0\Book_store_Management_System.runtimeconfig.json
+D:\.Net Learninig\Book_store_Management_System\bin\Debug\net8.0\Book_store_Management_System.dll
+D:\.Net Learninig\Book_store_Management_System\bin\Debug\net8.0\Book_store_Management_System.pdb
+D:\.Net Learninig\Book_store_Management_System\obj\Debug\net8.0\Book_store_Management_System.dll
+D:\.Net Learninig\Book_store_Management_System\obj\Debug\net8.0\refint\Book_store_Management_System.dll
+D:\.Net Learninig\Book_store_Management_System\obj\Debug\net8.0\Book_store_Management_System.pdb
+D:\.Net Learninig\Book_store_Management_System\obj\Debug\net8.0\Book_store_Management_System.genruntimeconfig.cache
+D:\.Net Learninig\Book_store_Management_System\obj\Debug\net8.0\ref\Book_store_Management_System.dll
